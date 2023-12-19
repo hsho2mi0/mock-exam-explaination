@@ -26,4 +26,5 @@ yy g mm s를 차례대로 띄어쓰기를 포함하여 검색창에 치고 Enter
 
 
 프로그램 사용 중 오류가 발생할 경우, shhahn0315@naver.com으로 연락주시길 바랍니다.
+
 GitHub Link: https://github.com/hsho2mi0/mock-exam-explaination
